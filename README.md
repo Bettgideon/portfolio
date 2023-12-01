@@ -1,5 +1,5 @@
 # Personal portfolio 
-#This is an intergrated one with social media accounts
+#This is an intergrated one with all social media accounts
 ##  Main information
 
 My name is Gideon Bett and I'm a Frontend Web developer from Maseno, Kisumu.
